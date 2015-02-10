@@ -14,5 +14,13 @@
     "serialization"
   ],
   "author": "Fredrik <evoozer@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/idleman/yit.git"
+  },
+  "bugs": {
+    "url": "https://github.com/idleman/yit/issues"
+  },
+  "homepage": "https://github.com/idleman/yit"
 }
