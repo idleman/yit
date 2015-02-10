@@ -31,7 +31,7 @@ You specify how you want the information you're serializing to be structured by 
 
 		person.set_name('John Doe');
 		console.log(person.name())	//	=> John Doe
-		console.log(person.has_age())		//	=> 25 (default)
+		console.log(person.has_age())		//	false
 		console.log(person.age())		//	=> 25 (default)
 
 		//	serialize it into a string:
